@@ -1,5 +1,9 @@
+#### 1.3
+* Attribute "id" renamed to "item";
+* Added attributes "class", "id" and "width" for the widget &#60;iframe&#62;;
+
 #### 1.2
-* Small improvements.
+* Some improvements.
 
 #### 1.1
 * Removed bug with empty "type";
