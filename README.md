@@ -1,7 +1,7 @@
 # Description
 This Wordpress plugin will help you to embed widgets of different Steam and Steam Greenlight games and apps in your posts and pages.
 
-**Current version:** 1.3  
+**Current version:** 1.4  
 **License:** MIT License
 
 ## Installation
@@ -18,8 +18,8 @@ This Wordpress plugin will help you to embed widgets of different Steam and Stea
 3. Upload the archive, wait till the upload ends and activate the plugin.
 
 ## Using
-Steam Store item id is store.steampowered.com/app/**362890**/  
-Steam Greenlingh item id is steamcommunity.com/sharedfiles/filedetails/?id=**322167876**
+Steam Store item id is store.steampowered.com/app/**362890**  
+Steam Greenlingh item id is steamcommunity.com/sharedfiles/filedetails?id=**322167876**
  
 * `[steam type="store" item="620"]` (or simple `[steam item="620"]`):  
 ![Screenshot 1](https://i.imgur.com/2XumbSh.png)
@@ -32,4 +32,4 @@ By default, the Store widget [&#60;iframe&#62;](https://developer.mozilla.org/en
 You can also change the ["id"](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id) and ["class"](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class) attributes (by default is "wp-steam-shortcode"). For example - `[steam item="271590" id="gtav" class="gtav-steam-widget"]`.
 
 ---
-ruLait, 2015. Contact - lait@cojam.ru.
+ruLait, 2016.
